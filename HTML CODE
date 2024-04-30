@@ -1,0 +1,46 @@
+# HTML code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anshika Campus Valley</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>CAMPUS VALLEY</h1>
+      <p>JUSTICE ACTION TRUTH</p>
+    </div>
+  </header>
+
+  <main class="main">
+    <section class="hero">
+      <div class="container">
+        <h2>Empowering You to Do More</h2>
+        <p>Chandigarh university     Campus valley       Anshika</p>
+        <button class="call-to-action">Get Started</button>
+      </div>
+    </section>
+
+    <section class="features">
+      <div class="container">
+        <h3>Key Features</h3>
+        <ul>
+          <li>Feature 1: campus valley</li>
+          <li>Feature 2: justice action truth</li>
+          <li>Feature 3: Sed elementum tempus elementum</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; Anshika . campus valley.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
